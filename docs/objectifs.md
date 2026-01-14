@@ -10,7 +10,7 @@ Le projet Machines That Draw est un défi de conception mené sur deux semestres
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Par équipes de quatre, nous devons faire preuve d'initiative pour relever les défis de la mécanique, de l'électronique (Arduino, moteurs pas à pas) et du développement logiciel. L'enjeu est de passer d'une simple preuve de concept (POC) au premier semestre à une machine aboutie et performante pour la Journée des Projets en juin.
 
 ## Objectifs du Projet
 
