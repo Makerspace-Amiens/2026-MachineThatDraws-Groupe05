@@ -5,7 +5,7 @@ title: Conception et prototypage
 ---
 # Étapes de conception et de fabrication
 
-Ce document retrace le cycle de développement de notre robot, de la réflexion initiale jusqu'à la fabrication des composants finaux.
+Ce document retrace le cycle de développement de notre projet, de la réflexion initiale jusqu'à la fabrication des composants finaux.
 
 ---
 
@@ -34,4 +34,3 @@ Nous avons choisi de segmenter la fabrication en trois étapes distinctes. Cette
 
 Étape 3 : Assemblage final (Pinces et courroie) La dernière phase d'impression concernait le chariot mobile. Nous avons conçu des pinces spécifiques ayant un double rôle : assurer le maintien ferme du stylo et servir de point d'ancrage pour bloquer la courroie. Cela permet de transformer la rotation des moteurs en un mouvement de translation précis.
 
-# Conception et prototypage
