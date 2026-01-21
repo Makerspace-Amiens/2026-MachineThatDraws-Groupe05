@@ -27,10 +27,3 @@ Pour corriger ces erreurs, nous avons appliqué une démarche de **CAO (Concepti
 ### Modifications apportées au modèle numérique :
 1.  **Ajustement des tolérances :** Augmentation du diamètre de l'alésage pour un ajustement précis avec la tige et renforcement de l'épaisseur des parois pour une meilleure résistance mécanique.
 2.  **Correction géométrique :** Rallongement du logement sur le modèle 3D pour assurer un maintien ferme et complet de la tige.
-
-> **Résultat :** Après une nouvelle impression 3D, la version finale est désormais parfaitement fonctionnelle, robuste et conforme aux dimensions des composants standards utilisés.
-
----
-
-## ⚙️ Configuration Électronique
-*Note : Nous avons également optimisé la précision des moteurs via le réglage des micro-pas (jumpers), permettant une résolution de tracé plus fine et une réduction des vibrations lors du dessin.*
