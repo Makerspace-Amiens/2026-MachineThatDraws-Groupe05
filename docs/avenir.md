@@ -27,7 +27,7 @@ Notre machine permet de transformer des instructions numériques en tracés phys
 
 
 
-1.  **Complexité des tracés :** Passer de traits simples à des illustrations détaillées en intégrant le protocole **G-Code** pour une gestion de coordonnées plus fine.
+1.  **Complexité des tracés :** Passer de traits simples à des illustrations détaillées en intégrant le protocole G-Code pour une gestion de coordonnées plus fine.
 2.  **Gestion du multicouleur :** Adapter le porte-outil pour permettre le changement rapide de stylo ou programmer des interruptions automatiques pour varier les couleurs durant un cycle de dessin.
 
 ---
