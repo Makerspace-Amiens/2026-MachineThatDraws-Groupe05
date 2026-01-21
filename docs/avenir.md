@@ -25,7 +25,7 @@ Notre machine permet de transformer des instructions numériques en tracés phys
 
 ##  II. Pistes d'amélioration 
 
-Afin d'augmenter les capacités de notre prototype, nous avons identifié deux axes de développement majeurs :
+
 
 1.  **Complexité des tracés :** Passer de traits simples à des illustrations détaillées en intégrant le protocole **G-Code** pour une gestion de coordonnées plus fine.
 2.  **Gestion du multicouleur :** Adapter le porte-outil pour permettre le changement rapide de stylo ou programmer des interruptions automatiques pour varier les couleurs durant un cycle de dessin.
@@ -34,7 +34,7 @@ Afin d'augmenter les capacités de notre prototype, nous avons identifié deux a
 
 ##  III. Problèmes rencontrés
 
-Le passage de la théorie à la pratique nous a confrontés à des réalités techniques formatrices :
+
 
 * **Contraintes temporelles :** Un calendrier serré qui a nécessité une grande réactivité entre la phase d'idée et la production finale.
 * **Défaut de synchronisation :** Des imprécisions initiales sur les moteurs pas-à-pas
